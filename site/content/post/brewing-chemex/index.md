@@ -1,5 +1,5 @@
 ---
-title: A beginners’ guide to brewing with Chemex
+title: 初心的的介紹 Chemex 如何沖泡
 date: 2017-01-04T15:04:10.000Z
 description: Brewing with a Chemex probably seems like a complicated,
   time-consuming ordeal, but once you get used to the process, it becomes a
