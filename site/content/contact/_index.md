@@ -1,14 +1,13 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: 聯絡我們
+logo: /img/logo.svg
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
+  - heading: 營業地點
+    text: 3153 Lynn Avenue, South San Francisco, California 94080
+  - heading: 營業時間
     text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
 ---
-
-We’d love to get in touch with you and hear your ideas and
+我們 很高興 to get in touch with you and hear your ideas and 
 questions. We strive to grow and improve constantly and your feedback
 is valuable for us.
 
